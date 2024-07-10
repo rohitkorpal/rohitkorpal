@@ -2,8 +2,9 @@
 Greetings! I'm Rohit Korpal, a passionate computer science student with a penchant for exploring the realms of coding and technology. 🎓 Currently on a quest to unravel the mysteries of computer science, I'm here to share my journey, projects, and insights with the vibrant GitHub community.
 
 # About Me
-As a fervent seeker of knowledge, I'm constantly honing my skills in various programming languages. With a solid foundation in C and Python, I navigate through the intricate landscapes of software development, seeking innovative solutions to real-world challenges. 💻 Alongside, I've also dabbled in HTML, laying the groundwork for my adventures in web development.
+🚀 Rohit Korpal 🚀
 
+As a passionate stock market enthusiast and second-year B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at SGT University, I thrive on challenges. My journey began with a solid foundation in C and Python, but I didn’t stop there—I delved into HTML, MySQL, GitHub, Pandas, and NumPy, exploring the intricate landscapes of software development. 🌟
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rohit._.korpal_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-korpal-aa207a172?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgbqs2J8EQHSusKxuUQABaA%3D%3D) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/rohitkorpal) 
