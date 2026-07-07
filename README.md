@@ -3,7 +3,7 @@ Greetings! I'm Rohit Korpal, a passionate computer science student with a pencha
 
 # About Me
 🚀 Rohit Korpal 🚀
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> </p>
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> </p>
 
 
 As a passionate stock market enthusiast and second-year B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at SGT University, I thrive on challenges. My journey began with a solid foundation in C and Python, but I didn’t stop there—I delved into HTML, MySQL, GitHub, Pandas, and NumPy, exploring the intricate landscapes of software development. 🌟
