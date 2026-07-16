@@ -27,4 +27,9 @@ As a passionate stock market enthusiast and second-year B.Tech student majoring 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohitkorpal&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitkorpal/rohitkorpal/output/github-contribution-grid-snake.svg" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
