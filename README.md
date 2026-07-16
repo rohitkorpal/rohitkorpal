@@ -28,6 +28,5 @@ As a passionate stock market enthusiast and second-year B.Tech student majoring 
 
 [![](https://visitcount.itsvg.in/api?id=rohitkorpal&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
